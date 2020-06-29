@@ -3,6 +3,5 @@
 node_modules/
 npm-debug.log
 combined.log
-package-lock.json
 error.log
 reports/
