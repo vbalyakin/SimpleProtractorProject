@@ -1,11 +1,14 @@
 # SimpleProtractorProject
 Simple project for connect to Jenkins
+# Install Protractor globally:
 ````
-Install Protractor globally: npm install -g protractor
+npm install -g protractor
 ````
+# Update & start server:
 ````
-Update & start server: npm run start
+npm run start
 ````
+# Run simple test:
 ````
-Run simple test: npm run test
+npm run test
 ````
