@@ -1,0 +1,25 @@
+{
+  "name": "protractor",
+  "version": "1.0.0",
+  "description": "simple project for connect to Jenkins",
+  "main": "conf.js",
+  "scripts": {
+    "prestart": "webdriver-manager update --versions.standalone=3.10.0 --gecko=false",
+    "start": "webdriver-manager start --versions.standalone=3.10.0",
+    "test": "protractor config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-Balyakin/SimpleProtractorProject.git"
+  },
+  "keywords": [
+    "protractor",
+    "jenkins"
+  ],
+  "author": "valiantsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V-Balyakin/SimpleProtractorProject/issues"
+  },
+  "homepage": "https://github.com/V-Balyakin/SimpleProtractorProject#readme"
+}
