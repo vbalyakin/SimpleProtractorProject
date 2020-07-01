@@ -1,8 +1,4 @@
-const {
-    browser
-} = require("C:/Users/User/AppData/Roaming/npm/node_modules/protractor"),
-protractor = require("C:/Users/User/AppData/Roaming/npm/node_modules/protractor"),
-EC = protractor.ExpectedConditions;
+const { browser } = require("C:/Users/User/AppData/Roaming/npm/node_modules/protractor");
 
 describe("'Ryanair rooms' website testing", function () {
 
